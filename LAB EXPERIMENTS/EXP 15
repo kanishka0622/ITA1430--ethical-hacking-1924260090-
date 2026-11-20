@@ -1,0 +1,6 @@
+Aim:
+To gather publicly available information about a domain.
+Command:
+theHarvester -d example.com -b google
+Result:
+Collected emails, subdomains, and publicly available information.
